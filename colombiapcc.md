@@ -7,7 +7,7 @@ sidebar_position: 1
 *El paisaje cultural, conjuga elementos naturales, económicos y sociales, que se expresan en una región con un alto grado de homogeneidad y que se constituyó como un caso excepcional en el mundo. Esto aunado a la fortaleza de la tradición cultural y generacional en torno al cultivo de café de alta montaña y a las características propias de procesos históricos de habitar y construir un Paisaje, alrededor de este cultivo.*
 
 El Paisaje Cultural Cafetero como patrimonio de la humanidad se teje desde el año 2001. Sustentados en la construcción de una identidad cultural e institucional alrededor del cultivo del café. El cual ha construido una gastronomía, una arquitectura, unos saberes, una música y una institucionalidad particular en el marco de un entorno biodiverso, entre otros.
-
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 ## Valores del PCC.
 
 - 1) Esfuerzo humano, familiar, generacional e histórico para la producción de un café de excelente calidad, en el marco de un desarrollo sostenible.
